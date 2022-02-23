@@ -1,2 +1,2 @@
-# GogolSmarthousing
-(GSH) system is designed to solve a variety of problems faced by property owners, where they will be able to remotely manage all aspects of their property securely, in real-time and at very little cost using precise procedures and mechanisms in order to solve the issue of not having enough time.
+# GogolCoin
+GogolCoin is built on the concept of Impacting Lives with Digital Currency. Centered around GogolCoin ,we have developed an ecosystem of gaming platforms, ecommerce portals, exchange, staking pool, social networking solutions and this ecosystem is striving towards a noble cause of making the world a better place to live in by supporting agriculture, education , charity work & more across the globe.
